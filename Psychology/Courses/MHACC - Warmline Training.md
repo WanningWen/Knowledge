@@ -256,13 +256,17 @@ B：“我聽了你剛才的話，覺得很受傷害”
 	- And so we have an epidemic in this country of depression among impoverished people that's not being picked up and that's not being treated and that's not being addressed, and it's a tragedy of a grand order. 
 	- There is this false moral imperative that seems to be all around us, that treatment of depression, the medications and so on, are an artifice, and that it's not natural. And I think that's very misguided. It would be natural for people's teeth to fall out, but there is nobody militating against toothpaste, at least not in my circles.
 	- mood is adaptive. Being able to have sadness and fear and joy and pleasure and all of the other moods that we have, that's incredibly valuable. And major depression is something that happens when that system gets broken. It's maladaptive.
-
-
 ### *ARPOWA Problem solving toolkit POW (20 Mins)
 1. ﻿﻿分組討論  
-    Breakout room discussion (30
+    Breakout room discussion (30)
+## 1.4 自杀和危机风险评估 Suicide and Crisis Risk Assessment
+### Suicide assessment and intervention
+pain and feeling of hopelessness --> suicidal ideation --> suicide plan --> means to execute the plan
+- find out what they will miss about the world
+- 如果你今天走了，你对世界有什么不舍
+> [!important] REPORT TO SUPERVISOR 
+> when someone wants to harm themselves or another person
 
-## 1.4 自杀和危机风险评估 Suicide and Crisis Risk Assessment (2 hours)
 ## - 1.5 案例学习 Case Studies (3 hours)
 
 # 操作單元 Operational Modules (8 hours)
