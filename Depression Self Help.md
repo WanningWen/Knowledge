@@ -1,0 +1,2 @@
+
+First thought/emotion --> secondary

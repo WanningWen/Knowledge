@@ -1,0 +1,1 @@
+Their function is very specific and they couldn’t be reprogrammed. For example, a desk calculator (in principle) is a fixed program computer.

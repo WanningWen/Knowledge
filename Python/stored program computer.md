@@ -1,0 +1,1 @@
+stores instructions in its memory to enable it to perform a variety of tasks in sequence or intermittently

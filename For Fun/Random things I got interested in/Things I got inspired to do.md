@@ -1,0 +1,1 @@
+I benefit a lot from writing things down and I know people do as well. What if I build a online letter writing and responding site for students on campus struggling with their mental health

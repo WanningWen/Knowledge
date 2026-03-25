@@ -1,0 +1,1 @@
+ a model for a computing machine that uses a single storage structure to hold both the set of instructions and the data. John von Neumann, from wikipedia
