@@ -5,6 +5,24 @@ tags:
 aliases:
   -
 ---
+# Levels:
+## Level 1: direct statement -> access assitance
+- Verbal statement of intent to die by suicide
+- ﻿﻿Seeking access to the means to die by suicide
+- ﻿﻿Talking or writing about one's death
+- ﻿﻿Suicidal statements on social media should be taken just as seriously
+- ﻿﻿If even one sign is present, access support
+## Level 2: signs of distress -> caring conversation
+> [!comment]
+- ﻿﻿As these accumulate, concern should grow. Approach for a caring conversation 
+- Social withdrawal
+- ﻿﻿Dramatic mood changes
+- ﻿﻿Agitation  
+    High risk behavior  
+    Severe insomnia
+- ﻿﻿Hopelessness/meaninglessness
+- ﻿﻿Feeling trapped
+
 ==cultural variations== 
 ### Thoughts
 - ﻿﻿Thinking life is not worth living, thinking about hurting yourself, or having suicidal thoughts

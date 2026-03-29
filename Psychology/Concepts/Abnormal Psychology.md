@@ -1,4 +1,4 @@
-> [!NOTE] What is Abnormal Psychology
+2> [!NOTE] What is Abnormal Psychology
 
 [Textbook](https://opentext.wsu.edu/abnormal-psych) 
 # [[Models to Explain psychological abnormalities]]
@@ -70,4 +70,5 @@
 ### Assessment: [[Behavioral assessment]]
 ### Methods:
 #### [[motivational interviewing]] 
+#### [[Suicide]]
 

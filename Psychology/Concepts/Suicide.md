@@ -5,7 +5,8 @@ tags:
 aliases:
   -
 ---
-> [!important] 
+> [!important] suicidal thoughts exist on a continuum (vague thoughts of death/very specific)
+> does not mean someone is attempting, but that they are in emotional distress and need help
 ## Warning Signs:
 ![[Suicide Warning Signs]]
 
@@ -19,7 +20,6 @@ Adolescents (Cleary, 2002)
 - Family history of suicidal behavior
 - [[Major Depressive Disorder|Major depressive disorder]]
 - [[Bipolar Disorders|Bipolar disorder]]
-
 ## Increased Risk:
 - Women attempt suicide at a higher rate
 - men are more likely to complete suicide.
@@ -37,22 +37,26 @@ Adolescents (Cleary, 2002)
 - 5-6% of individuals with bipolar disorder die by suicide
 - About 1/3 of individuals with bipolar II disorder report a lifetime history of suicide attempt, which is similar in bipolar I disorder, though lethality of attempts is higher in individuals with bipolar II (APA, 2022).
 ## Ask about Suicide ([[Be Sensitive Be Brave]])
+> [!NOTE] asking someone about suicide does NOT raise their risk for an attempt
+> - know a plan for accessing support 
+> - reassure and validate "I believe you can get through this", you are helping by talking and providing support
+> - do not keep this to yourself
 ### 1. Be Sensitive (Human approach)
 > [!important] [[Active Listening]]
 > eye contact, let go of judgement, listen without thinking about a response
 
 ![[Rapport#^e8ac15]]
-
 Respect their cultural differences
 "I noticed that you've been going through a lot recently, I would like to support you. How would you prefer me to support you"
+- avoid vague language
 ### 2. Be Brave (Asking about Suicide)
 > [!NOTE] Asking the Question
 > Be very clear in asking about thoughts of suicide
-- ﻿﻿Are you having thoughts about suicide?
-- ﻿﻿Are you having thoughts about killing yourself?
-- ﻿﻿Have you thought about ending your life?
+
+- "Sometimes, when people are experiencing very difficult situations, they think about suicide. Is that happening for you right now?"
+- ﻿﻿"Are you feeling like it would be better if you were not alive?"
+- ﻿﻿"With so much stress and pain going on for you right now, are you having thoughts of wanting to die?"
 - ﻿﻿Have you been thinking about making sure you never wake up again?
-- ﻿﻿Have you wondered if life is worth living?
 - ﻿﻿Have you wanted to give your life away?
 - ﻿﻿Have you ever felt that others will be better off without you?
 > [!NOTE] Recognize how brave they are to speak up

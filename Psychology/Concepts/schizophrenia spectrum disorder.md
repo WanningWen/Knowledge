@@ -28,11 +28,22 @@ aliases:
  lack of effectiveness antipsychotic medications have in addressing [[negative symptoms]] (Kirkpatrick, Fenton, Carpenter, & Marder, 2006)
 #### Syndrome:
 [[psychosis]]
+
+> [!note] general prevalence
+> Impact: 
+> - extreme impairment
+> - 25% suicide attempt, 5% die by suicide, higher risk of medical illness
+> - lifespan 10-20 years shorter
+
 ### schizophrenia
 ![[Schizophrenia]]
 ### schizophreniform disorder
 ![[schizophreniform disorder]]
+
+> [!important] occurring in 0.2% to 0.3% of the general population
+> Schizoaffective disorder, schizophreniform disorder, and delusional disorder prevalence rates are all significantly less than that of schizophrenia
 ### schizoaffective disorder
 ![[Schizoaffective Disorder]]
 ### delusional disorder
 ![[delusional disorder]]
+### Brief Schizophrenia disorder

@@ -6,7 +6,8 @@ tags:
 aliases:
   -
 ---
-> [!important] 
+> [!important] persistent false belief in absence of other schizophrenia symptoms; 
+> types include grandiose, persecutory, somatic, jealous, erotomanic
 ## Clinical Presentation
 - presence of at least one [[delusion]] that lasts for at least one month in duration.
 	- but no other [[Schizophrenia]] symptoms (positive, negative, disorganized)
@@ -34,6 +35,8 @@ the conviction of having great talent or insight.
 #### bizarre
 - the content of the  delusions are deemed **bizarre** or implausible, not understandable, and not derived from ordinary life experience.
 ## Epidemiology/ Prevalence
+0.1%
+- do not seek treatment actively, so higher prevalence
 ## [[comorbidity]]
 ## Etiology
 ### biological causes 
