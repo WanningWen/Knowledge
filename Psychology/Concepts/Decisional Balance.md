@@ -6,5 +6,4 @@ tags:
 ---
 > good to use in the action and maintenance stage of [[Transtheoretical model of change]]
 
-
 ![[CleanShot 2025-08-28 at 19.27.08@2x.png]]

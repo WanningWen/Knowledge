@@ -6,6 +6,7 @@ tags:
   - linker-exclude
 aliases:
   - mental illness
+  - mental health condition
 ---
 #Career/PeerSupportSpecialist/Session 
 

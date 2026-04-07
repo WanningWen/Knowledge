@@ -4,7 +4,6 @@ tags:
   - Science/Psychology/Illness
   - Terms
 ---
-
 > [!info] a loss of contact with reality
 > [[syndrome]] or a collection of symptoms rather than a diagnosis
 > - difficult for individuals to perceive and respond to environmental stimuli, causing a significant disturbance in everyday functioning

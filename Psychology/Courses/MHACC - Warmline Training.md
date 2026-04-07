@@ -267,6 +267,14 @@ pain and feeling of hopelessness --> suicidal ideation --> suicide plan --> mean
 > [!important] REPORT TO SUPERVISOR 
 > when someone wants to harm themselves or another person
 
+> [!important] - "I need a welfare check in xx County for a caller who is in imminent danger [of suicide or homicide.]
+### Survivors of Suicide Loss
+
+### Case Studies
+[[psychosis]] Taking calls: 不要背着他们做事情，因为本来就不相信别人
+
+[[mental health crisis|crisis]] 
+- cannot calm down: breathing excercises
 ## - 1.5 案例学习 Case Studies (3 hours)
 
 # 操作單元 Operational Modules (8 hours)

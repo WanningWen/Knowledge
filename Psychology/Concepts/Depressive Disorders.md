@@ -18,33 +18,32 @@ aliases:
 ![[premenstrual dysphoric disorder#^c701a7]]
 ### [[disruptive mood dysregulation disorder]]
 ###  Seasonal Affective Disorder (SAD)
-
-## Symptoms
-symptoms can generally be grouped into four categories: mood, behavioral, cognitive, and physical symptoms
+## [[Symptoms]] 
+generally be grouped into: mood, behavioral, cognitive, and physical symptoms
 ### Mood
-most, if not all individuals
 - a depressed mood for most of the day 
-- feelings of _[[anhedonia]]_, which is the loss of interest in previously interesting activities.
+- feelings of _[[anhedonia]]_ (loss of interest in previously interesting activities)
 ### Behavioral
 decreased physical activity and reduced productivity—both at home and work
 - disruption in daily functioning: unable to maintain their social interactions and employment responsibilities
 ### Cognitive
-- a negative view of themselves and the world around them
+- a negative view of self and the world around them
 - quick to blame themselves, and rarely take credit when they experience positive achievements
 - feel worthless
 	- a negative feedback loop reinforcing their overall depressed mood
-- difficulty concentrating on tasks
-	- individuals with depression perform worse than those without depression on tasks of memory, attention, and reasoning (Chen et al., 2013)
+- difficulty concentrating
+	- perform worse than those without depression on tasks of memory, attention, and reasoning (Chen et al., 2013)
 - thoughts of [[suicide]] and self-harm
 ### Physical:
-- Changes in sleep patterns
+- sleep pattern change
 	- **[[Hypersomnia]]**
 	- **[[insomnia]]**
-- change in weight or eating behaviors
+- weight/ eating behaviors change
 	- a lack of appetite, often forcing themselves to eat something during the day
 	- overeat, often seeking “comfort foods,” such as those high in carbohydrates
 - psychomotor agitation or retardation
-	-  purposeless or slowed physical movement of the body (i.e., pacing around a room, tapping toes, restlessness, etc.)
+	-  purposeless or slowed physical movement of the body 
+	- (i.e., pacing around a room, tapping toes, restlessness, etc.)
 ## Diagnostic Criteria and Features
 ### [[Major Depressive Disorder]] (MDD)
 [[DSM V]]
@@ -110,10 +109,8 @@ difference in the rate of recurrence of depression in Hispanic and African Ameri
 - approximately 54% of depressed white Americans seek out treatment, compared to the 34% and 40% Hispanic and African Americans
 #### Gender differences
 [[Gender causes of depression]]
-
 > [!question] Given the article, what are your thoughts about what comprehensive and appropriate treatment should look like?
 > - specialized personal treatment towards depression while taking into account various social factors
-
 ##### _artifact theory_
 difference between genders is due to clinician or diagnostic systems being more sensitive to diagnosing women with depression than men
 ##### _hormone theory_
